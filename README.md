@@ -18,7 +18,7 @@ npm run start
 npm run test
 ```
 
-## Exapmle of input value
+## Example of input value
 
 ```
 1 + 3 - 5 / 5 + ( 7 - 3 ) * 2.5 + ( 3 - 7 )
